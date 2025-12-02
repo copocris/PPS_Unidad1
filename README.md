@@ -56,6 +56,13 @@ pip install pytest
 ```
 
 **Como ejecutar los tests:**
+
+Primero activa el entorno virtual :
+```
+.\.venv\Scripts\Activate.ps1
+```
+
+Luego ejecuta los tests:
 ```
 pytest tests/test_pytest.py -v
 ```
