@@ -1,0 +1,14 @@
+# Dependencias del proyecto PPS_Unidad1
+# =========================================
+
+# Framework de testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Herramientas de calidad de código
+pylint>=3.0.0
+flake8>=6.1.0
+black>=23.0.0
+
+# Cobertura de código
+coverage>=7.3.0
